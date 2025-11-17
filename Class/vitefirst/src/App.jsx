@@ -1,4 +1,4 @@
-import IT from "./components/IT"
+import Kerala from "./components/Kerala"
 import Navbar from "./components/navbar"
 
 
@@ -6,9 +6,10 @@ const App = ()=>{
   return(
     <>
     <header>
-      <h1></h1> 
+      <h1><i><ul>Chennai</ul></i></h1> 
       <Navbar/>
-      <IT/>
+      <Kerala/>
+
     </header>
     </>
 

@@ -1,4 +1,5 @@
 import IT from "./IT"
+import Robotics from "./Robotics"
 
 const Navbar = ()=>{
     return(
@@ -8,7 +9,8 @@ const Navbar = ()=>{
     <a href="">IT Companies</a>
     <a href="">Robotics</a>
 </div>
-
+<IT/>
+<Robotics/>
 </>
     )
 }

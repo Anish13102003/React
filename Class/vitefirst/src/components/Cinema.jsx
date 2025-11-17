@@ -1,4 +1,4 @@
-const Tourist = ()=>{
+const Cinema = ()=>{
     return(
         <>
         </>
@@ -6,4 +6,4 @@ const Tourist = ()=>{
     )
 
 }
-export default Tourist
+export default Cinema
